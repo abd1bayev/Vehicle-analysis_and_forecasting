@@ -16,4 +16,8 @@ Safety Features
 GPS and many more.
 
 ![image](https://user-images.githubusercontent.com/99121169/174322187-0d1a6e0f-d4d1-4c00-89f6-5e7258049ff2.png)
-![image](https://user-images.githubusercontent.com/99121169/174322238-518fce8f-7a16-4b79-b465-12809ed7479f.png)
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+![image](https://user-images.githubusercontent.com/99121169/179348609-dc054e52-0b91-48a2-a56c-18da12c282a1.png)
+
