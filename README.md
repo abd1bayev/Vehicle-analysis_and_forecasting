@@ -24,4 +24,3 @@ GPS and many more.
 <h1>A PRESENTATION made to explain my work to the public.</h1>
 
 
-
