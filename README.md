@@ -21,8 +21,7 @@ Safety Features
 
 GPS and many more.
 
-![image](https://user-images.githubusercontent.com/99121169/174322187-0d1a6e0f-d4d1-4c00-89f6-5e7258049ff2.png)
+<h1>A PRESENTATION made to explain my work to the public.</h1>
 
 
-![image](https://user-images.githubusercontent.com/99121169/179348609-dc054e52-0b91-48a2-a56c-18da12c282a1.png)
 
